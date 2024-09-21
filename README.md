@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # Music-School
 >>>>>>> 24ec3bbc099a38e62b73780c5144e12f56bf3f39
+=======
+
+>>>>>>> 99b614be39bca3fdd5a5f62470f47b8b3e1f1598
